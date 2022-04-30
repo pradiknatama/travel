@@ -1,6 +1,3 @@
-# Starter Folder
+# TypeScript, React, NextJS, TailwindCSS
 
-Silahkan lakukan perubahan code dengan mengikuti tutorial di folder ini.
-Jangan lakukan perubahan pada Folder finish.
-
-Happy coding!
+Still in progress :)
